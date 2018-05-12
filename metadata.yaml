@@ -1,4 +1,8 @@
 _repo: Un-jardin-sur-l-Oronte_46842
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46842-h/images/oronte_cover.jpg
 creator:
   author:
     agent_name: Barrès, Maurice
@@ -13,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Maurice_Barrès
     - http://en.wikipedia.org/wiki/Maurice_Barrès
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46842#Un-jardin-sur-l-Oronte
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2014-09-11'
 gutenberg_type: Text
